@@ -31,7 +31,8 @@ export default function Banner() {
                 <a
                   className="flex m-auto gap-2 items-center"
                   href="https://github.com/JacquelineCasali"
-                >
+                
+                  target="_blank">
                   {" "}
                   Visitar o Github
                   <HiArrowSmRight />
@@ -42,6 +43,7 @@ export default function Banner() {
                 <a
                   className="flex m-auto gap-2 items-center"
                   href="https://www.linkedin.com/in/jaquelinecasali/"
+                  target="_blank"
                 >
                   {" "}
                   Visitar o Linkedin

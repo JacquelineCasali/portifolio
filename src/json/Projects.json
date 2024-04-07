@@ -1,10 +1,13 @@
 [
     {
       "title": "Busca Cep",
-      "description": "Buscar cep auto preenche o endereço",
+      "description": "Buscar cep auto preenche o endereço ",
       "image": "https://i.ibb.co/094dsn9/Video-cep.gif[/img][/url] ",
       "link": "https://busca-endereco-pelo-cep.vercel.app/",
-      "git": "https://github.com/JacquelineCasali/busca-endereco-pelo-cep"
+      "git": "https://github.com/JacquelineCasali/busca-endereco-pelo-cep",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg", 
+   "javascript":"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+   
     },
 
     {
@@ -30,7 +33,7 @@
       "git": "https://github.com/JacquelineCasali/Conversor-de-Moedas"
     },
     {
-      "title": "CRUD de Pet",
+      "title": "CRUD de Pet desenvolvido",
       "description": "Buscar cep auto preenche o endereço",
       "image": "https://i.ibb.co/Wv50XC1/Video-2023-06-15-210440.gif[/img][/url]",
       "link": "https://front-back-petshop.vercel.app/",
@@ -45,14 +48,14 @@
       "git": "https://github.com/JacquelineCasali/lista-de-estudante-front-back"
     },
     {
-      "title": "E-commecer",
-      "description": "Loja de informatica ",
-      "image": "https://i.ibb.co/ctHT3Rd/e-co1.gif",
-      "link": "https://e-commercer-ten.vercel.app/",
-      "git":""
+      "title": "Upload de Imagem ",
+      "description": "Upload de Imagem ",
+      "image": "https://i.ibb.co/tYDMJb4/upload.gif",
+      "link": "https://upload-de-imagem-com-react-node-mysql.vercel.app/",
+      "git":"https://github.com/JacquelineCasali/upload-de-imagem-com-react-node-mysql"
     },
     {
-      "title": "Sitema de Hotel",
+      "title": "Sitema de Hotel desenvolvido em Java",
       "description": "Bate papo",
       "image": "https://i.ibb.co/mNN2hn5/Video-hotel.gif[/img][/url]",
       "link": "https://github.com/JacquelineCasali/One-Alura-Hotel",
@@ -60,19 +63,40 @@
     },
 
     {
-      "title": "Api-Sistema-Medico",
+      "title": "Api-Sistema-Medico desenvolvido em Java",
       "description": "Bate papo",
       "image": "https://i.ibb.co/P9qJygK/Video-2023-10-04-064647.gif",
-
       "link": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java",
       "git": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java"
     },
     {
-      "title": "Api-Forum com login",
+      "title": "Api-Forum com login desenvolvido em Java",
       "description": "Bate papo",
       "image": "https://i.ibb.co/kDqHq4D/Video-forum.gif[/img][/url]",
 
       "link": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
       "git": "https://github.com/JacquelineCasali/One-Alura-Forum.git"
+    },
+
+    {
+      "title": "Api-Parcelamento desenvolvido em Java",
+      "description": "",
+      "image": "https://i.ibb.co/RyFcttT/2024-03-25-122801.png",
+
+      "link": "https://github.com/JacquelineCasali/Api-Pagamento-Java",
+      "git": "https://github.com/JacquelineCasali/Api-Pagamento-Java"
+
+    },
+
+     {
+      "title": "Api-Cardápio desenvolvido em Java",
+      "description": "",
+      "image": "https://i.ibb.co/JCDsCMj/Video-2024-03-19-143950.gif",
+
+      "link": "https://github.com/JacquelineCasali/back-end-cardapio-java",
+      "git": "https://github.com/JacquelineCasali/back-end-cardapio-java"
+
     }
-  ]
+     ]
+
+    

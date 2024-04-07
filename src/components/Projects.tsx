@@ -1,7 +1,8 @@
 import { FaGithub } from "react-icons/fa";
 import { VscGlobe } from "react-icons/vsc";
 import { Link } from "react-router-dom";
-import projects from "../json/Projects.json"
+import projects from "../json/Projects.json";
+
 export default function Projects() {
 
   return (
@@ -28,18 +29,33 @@ export default function Projects() {
                   src={project.image}
                   className="h-full w-full object-cover object-center"
                 />
+          
+       
               </div>
+          
             <div>
 
            
-              <div className=" flex justify-end items-center   mt-5 mb-8  text-xl font-semibold text-green-500 no-underline hover:underline ">
-                <h3 >
-                  <a href={project.link} target="_blank">
+              <div className=" flex justify-end items-center  mt-5 mb-8 text-xl font-semibold text-green-500 no-underline hover:underline ">
+                
+                       <h3 >
+                  <a   href={project.link} target="_blank">
                     {project.title}
                   </a>
                 </h3>
-                <div className="flex items-center gap-4 mr-2 w-1/2 justify-end">
-                  <Link
+         
+                <div className="flex items-center gap-4 mr-2 w-1/3 justify-end">
+                {/* <img
+                  src={project.icon}
+                 
+                  className="w-10"
+                />
+                  <img
+                  src={project.javascript}
+                  className="w-10"
+                />              */}
+                 
+                               <Link
                     className="rounded-full hover:-translate-y-2 hover:scale-125 hover:text-blue-600 duration-75 bottom-2"
                     to={project.link}
                     target="_blank"
@@ -59,9 +75,12 @@ export default function Projects() {
                       className="transition ease-in-out delay-150     "
                       size={32}
                     />
+       
                   </Link>
                 </div>
+            
                 </div>
+               
               </div>
             </div>
           ))}
