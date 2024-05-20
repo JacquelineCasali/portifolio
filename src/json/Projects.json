@@ -96,7 +96,18 @@
       "link": "https://github.com/JacquelineCasali/back-end-cardapio-java",
       "git": "https://github.com/JacquelineCasali/back-end-cardapio-java"
 
+    },
+    {
+      "title": "Sistema de login com autenticação JWT",
+      "description": "",
+      "image": "https://i.ibb.co/8c7njSZ/Video-login.gif",
+      "link": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git",
+      "git": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git"
+
     }
+
+
+    
      ]
 
     

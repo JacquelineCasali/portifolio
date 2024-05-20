@@ -45,16 +45,7 @@ export default function Projects() {
                 </h3>
          
                 <div className="flex items-center gap-4 mr-2 w-1/3 justify-end">
-                {/* <img
-                  src={project.icon}
-                 
-                  className="w-10"
-                />
-                  <img
-                  src={project.javascript}
-                  className="w-10"
-                />              */}
-                 
+                            
                                <Link
                     className="rounded-full hover:-translate-y-2 hover:scale-125 hover:text-blue-600 duration-75 bottom-2"
                     to={project.link}

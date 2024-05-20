@@ -43,7 +43,7 @@ export default function Contact() {
 
   return (
     <section
-      className="flex min-h-full flex-1 flex-col justify-center  pt-24 lg:px-8 md:pt-11 lg:pt-24 "
+      className="flex min-h-full flex-1 flex-col justify-center  pt-12 lg:px-8 md:pt-11 lg:pt-16 "
       id="contato"
     >
       <div className="relative  text-center ">
