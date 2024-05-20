@@ -32,4 +32,3 @@ https://github.com/JacquelineCasali/portifolio.git
 
 
 
-// "link": "https://github.com/JacquelineCasali/One-Alura-Hotel",
