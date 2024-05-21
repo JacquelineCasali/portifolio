@@ -25,10 +25,10 @@ https://github.com/JacquelineCasali/portifolio.git
 
 ## FRONTEND
 
--- `React.js`
--- `vite.js`
--- `TypeScript`
--- `Tailwind`
+- `React.js`
+- `vite.js`
+- `TypeScript`
+- `Tailwind`
 
 
 

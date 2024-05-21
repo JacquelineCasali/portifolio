@@ -101,7 +101,7 @@
       "title": "Sistema de login com autenticação JWT",
       "description": "",
       "image": "https://i.ibb.co/8c7njSZ/Video-login.gif",
-      "link": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git",
+      "link": "https://api-login-node-express-mysql.vercel.app/login",
       "git": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git"
 
     }
