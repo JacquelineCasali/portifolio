@@ -1,5 +1,7 @@
 [
     {
+      
+      "id":1,
       "title": "Busca Cep",
       "description": "Buscar cep auto preenche o endereço ",
       "image": "https://i.ibb.co/094dsn9/Video-cep.gif[/img][/url] ",
@@ -11,6 +13,7 @@
     },
 
     {
+      "id":2,
       "title": "X-men",
        "description": "Descrição do projeto 4",
       "image": "https://i.ibb.co/vwGbHrH/imagem-projeto.png[/img][/url]",
@@ -104,10 +107,35 @@
       "link": "https://api-login-node-express-mysql.vercel.app/login",
       "git": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git"
 
+    },
+    {
+      "title": "Carrinho de Compras",
+      "description": "",
+      "image": "https://i.ibb.co/3fc5ws5/2024-07-09-104601.png",
+      "link": "https://burgers-restaurant-react.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/BURGERS-RESTAURANT---REACT"
+
+    },
+    {
+      "title": "Api-Planejador de Viagem desenvolvido em Java",
+      "description": "",
+      "image":     "https://i.ibb.co/LxpQ8Jj/planner.png",
+
+      "link": "https://github.com/JacquelineCasali/nlw-planner-Java",
+      "git": "https://github.com/JacquelineCasali/nlw-planner-Java"
+
+    },
+    
+    {
+      "title": "Api-Planejador de Viagem desenvolvido em React",
+      "description": "",
+      "image":     "https://i.ibb.co/nj17wJK/2024-07-26-112739.png",
+
+      "link": "https://github.com/JacquelineCasali/nlw-planner-react",
+      "git": "https://github.com/JacquelineCasali/nlw-planner-react"
+
     }
 
-
-    
      ]
 
     

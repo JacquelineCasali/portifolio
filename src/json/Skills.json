@@ -25,11 +25,7 @@
       "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
    
            },
-           {
-            "name": "Mysql",
-            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
          
-                 },
                  {
                   "name": "Express",
                   "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
@@ -40,7 +36,24 @@
                               "name": "Java",
                               "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                            
-                                   }
+                                   },
 
- 
+                                   {
+                                    "name":"SprinBoot",
+                                    "icon":"https://img.icons8.com/?size=100&id=90519&format=png&color=000000"
+
+                                   },
+                                   {
+                                    "name": "Mysql",
+                                    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+                                 
+                                         },
+                                   {
+                                    "name":"Postgresql",
+                                    "icon":"https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
+                                   },
+                                   {"name":"Postman",
+                                  "icon":"https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"}
+
+
               ]

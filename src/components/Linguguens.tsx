@@ -1,6 +1,10 @@
 import { HiCodeBracketSquare } from "react-icons/hi2";
 import skills from "../json/Skills.json";
+
+
 export default function Linguguens() {
+
+  
   return (
     <section
       className=" bg-gradient-to-tr  to-green-700  from-green-400 text-white rounded-br-[60px] md:rounded-br-[120px] lg:rounded-br-[220px]"
