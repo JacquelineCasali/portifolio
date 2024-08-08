@@ -12,14 +12,7 @@
    
     },
 
-    {
-      "id":2,
-      "title": "X-men",
-       "description": "Descrição do projeto 4",
-      "image": "https://i.ibb.co/vwGbHrH/imagem-projeto.png[/img][/url]",
-      "link": "https://x-men-two.vercel.app/",
-      "git": "https://github.com/JacquelineCasali/X-men"
-    },
+ 
     {
       "title": "Cripto Moedas",
        "description": "Descrição do projeto 3",
@@ -101,7 +94,7 @@
 
     },
     {
-      "title": "Sistema de login com autenticação JWT",
+      "title": "Sistema de login com autenticação JWT Desenvolvido em Node.js,React.js Mysql",
       "description": "",
       "image": "https://i.ibb.co/8c7njSZ/Video-login.gif",
       "link": "https://api-login-node-express-mysql.vercel.app/login",
@@ -109,7 +102,7 @@
 
     },
     {
-      "title": "Carrinho de Compras",
+      "title": "Carrinho de Compras React.js",
       "description": "",
       "image": "https://i.ibb.co/3fc5ws5/2024-07-09-104601.png",
       "link": "https://burgers-restaurant-react.vercel.app/",
@@ -119,7 +112,7 @@
     {
       "title": "Api-Planejador de Viagem desenvolvido em Java",
       "description": "",
-      "image":     "https://i.ibb.co/LxpQ8Jj/planner.png",
+      "image":     "https://github.com/user-attachments/assets/a3a4e940-8520-471d-8036-2d8a6ba505da",
 
       "link": "https://github.com/JacquelineCasali/nlw-planner-Java",
       "git": "https://github.com/JacquelineCasali/nlw-planner-Java"
@@ -134,8 +127,26 @@
       "link": "https://github.com/JacquelineCasali/nlw-planner-react",
       "git": "https://github.com/JacquelineCasali/nlw-planner-react"
 
-    }
+    },
 
+    {
+      "title": "Api-Lista de Tarefas desenvolvido em Java Rodar no postman Post: https://todolist-dy0q.onrender.com/users",
+      "description": "",
+      "image":"https://github.com/user-attachments/assets/8bebc6f8-d9da-4ee7-a848-6975cc06c09d",
+
+      "link": "https://todolist-dy0q.onrender.com/users",
+      "git": "https://github.com/JacquelineCasali/todolist"
+
+    },
+    {
+      "title": "Api-de Gestão de vagas Desnsenvolvido em Java",
+      "description": "",
+      "image":"https://github.com/user-attachments/assets/592bd937-1228-4921-912e-0a7dd075a887",
+
+      "link": "https://gestao-vagas-hyo7.onrender.com/swagger-ui/index.html",
+      "git": "https://github.com/JacquelineCasali/gestao-vagas"
+
+    }
      ]
 
     
