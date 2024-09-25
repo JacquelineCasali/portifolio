@@ -1,31 +1,31 @@
 [
   {
     "title": "Api-PicPay Simplificado - plataforma de pagamentos simplificada",
-    "description": "Bate papo",
-    "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/103325619/369488671-c265ac36-fb44-4bf4-8c8d-2acc47f6b6a6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240923%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240923T190248Z&X-Amz-Expires=300&X-Amz-Signature=293e5e4d00aec814c732203c01333251fad741457a88aa15fa9e13d8dfce9db8&X-Amz-SignedHeaders=host",
+    "image": "https://private-user-images.githubusercontent.com/103325619/369488671-c265ac36-fb44-4bf4-8c8d-2acc47f6b6a6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyOTEwMjQsIm5iZiI6MTcyNzI5MDcyNCwicGF0aCI6Ii8xMDMzMjU2MTkvMzY5NDg4NjcxLWMyNjVhYzM2LWZiNDQtNGJmNC04YzhkLTJhY2M0N2Y2YjZhNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyNVQxODU4NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZTBhYWNjMTZjMjI2ZTVjMTJmNmE5MzNiOGRkMjNhMDJjMDBlYWIzZDNlYmZmOTkwNmMyMzM2M2IwOTAyNTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4XTsn_NUXjR7q_TH0Jf-3WaaTDNkhEFKfr8jrEz5X5s",
+    
     "link": "https://back-end-picpay-java.onrender.com/swagger-ui/index.html",
     "git": "https://github.com/JacquelineCasali/-Back-end-PicPay-Java",
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
      "iconB":"https://cdn.icon-icons.com/icons2/2447/PNG/512/db_maintenance_settings_icon_148752.png"
-  },
+   
+ 
+    },
   {
     "title": "Api-Sistema-Medico desenvolvido em Java",
     "description": "Bate papo",
     "image": "https://i.ibb.co/P9qJygK/Video-2023-10-04-064647.gif",
-    "link": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java",
     "git": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java",
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
      "iconB":"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-  },
+
+    },
   {
     "title": "Api-Forum com login desenvolvido em Java",
     "description": "Bate papo",
     "image": "https://i.ibb.co/kDqHq4D/Video-forum.gif[/img][/url]",
-
-    "link": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
-    "git": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
+     "git": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
      "iconB":"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
@@ -36,7 +36,6 @@
     "description": "",
     "image": "https://i.ibb.co/RyFcttT/2024-03-25-122801.png",
 
-    "link": "https://github.com/JacquelineCasali/Api-Pagamento-Java",
     "git": "https://github.com/JacquelineCasali/Api-Pagamento-Java",
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
@@ -72,7 +71,6 @@
     "description": "",
     "image": "https://i.ibb.co/JCDsCMj/Video-2024-03-19-143950.gif",
 
-    "link": "https://github.com/JacquelineCasali/back-end-cardapio-java",
     "git": "https://github.com/JacquelineCasali/back-end-cardapio-java",
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
@@ -85,22 +83,17 @@
     "title": "Api-Planejador de Viagem",
     "description": "",
     "image":     "https://i.ibb.co/nj17wJK/2024-07-26-112739.png",
-
-    "link": "https://github.com/JacquelineCasali/nlw-planner-react",
     "git": "https://github.com/JacquelineCasali/nlw-planner-react",
    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       "iconF": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
       "iconE": " https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
-
       "iconB":"https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
 
   },
   {
     "title": "Sistema-de-Cadastro-com-login",
     "description": "",
-    "image": "https://private-user-images.githubusercontent.com/103325619/370760416-423ffe2e-212b-4714-b054-3369844723a6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyNzUxNTksIm5iZiI6MTcyNzI3NDg1OSwicGF0aCI6Ii8xMDMzMjU2MTkvMzcwNzYwNDE2LTQyM2ZmZTJlLTIxMmItNDcxNC1iMDU0LTMzNjk4NDQ3MjNhNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyNVQxNDM0MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTVlMzU4MWVjODg5MDVkY2VmZmIzYjhmOWIzZWU0ZTFhN2Q4ZTZiMjFkZTI3M2QxYWEyNjFkMjUzODU0Y2M3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8JLtmiPst-ZmSZKw-OyRZ3rN6wZoXdYz6H_Pao3qXT0",
-
-    "link": "https://github.com/JacquelineCasali/Sistema-de-Cadastro-node.js-mysql-e-react",
+    "image": "https://i.ibb.co/ngfQHkW/Video-2024-09-24-135517.gif",
     "git": "https://github.com/JacquelineCasali/Sistema-de-Cadastro-node.js-mysql-e-react",
     "iconF": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     "icon": " https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png",

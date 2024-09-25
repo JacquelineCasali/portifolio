@@ -40,33 +40,40 @@ export default function Projects() {
                
                 />
               </div>
-
-              <div className=" flex justify-end items-center  mt-5 mb-8 text-xl font-semibold text-green-500 no-underline hover:underline ">
-              <img className="mr-2 w-12" src={project.iconF}/>
-              <img className="mr-2 w-12" src={project.icon}/>
-              <img className="mr-2 w-12" src={project.iconE}/>
-              <img className=" mr-4 w-12" src={project.iconB}/>
-              {/* <h3 > */}
-                  <a  className="w-5/6" href={project.link} target="_blank">
+           
+              <div className=" flex justify-end items-center  mt-5 mb-2 text-xl font-semibold text-green-500 no-underline hover:underline ">
+            
+        
+            
+           
+               {(project.link)?
+                  <a  className="w-5/6 cursor-pointer" href={project.link}>
+                    {project.title}
+                  </a>:<a  className="w-5/6 cursor-pointer" href={project.git} >
                     {project.title}
                   </a>
-                {/* </h3> */}
+                     }
+          
 
                 <div className="flex items-center gap-4 mr-2 justify-end">
+                  
+                  {(project.link)?
+
+                 
+                  
                   <Link
                     className="rounded-full hover:-translate-y-2 hover:scale-125 hover:text-blue-600 duration-75 bottom-2"
                     to={project.link}
                     target="_blank"
                   >
-               
-
-
-                    <VscGlobe
+                    
+                    
+                     <VscGlobe
                       className="transition ease-in-out delay-150     "
                       size={32}
                     />
-                  </Link>
-
+                  </Link>:""
+ }
                   <Link
                     className="rounded-full hover:-translate-y-2 hover:scale-125 hover:text-blue-600 duration-75 bottom-2"
                     to={project.git}
@@ -81,7 +88,24 @@ export default function Projects() {
 
 
                 </div>
+         
+           
               </div>
+              <div className="flex justify-center mb-5">
+
+              {(project.iconF)?
+           <img className="mr-2 w-12" src={project.iconF}/>:""}
+              <img className="mr-2 w-12" src={project.icon}/>
+
+              {(project.iconE)? 
+             
+              <img className="mr-2 w-12" src={project.iconE}/>:"" }
+             
+             {(project.iconB)?
+
+           
+              <img className=" mr-4 w-12" src={project.iconB}/>:""  }
+                </div>
             </div>
           ))}
         </div>
