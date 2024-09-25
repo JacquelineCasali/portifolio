@@ -1,0 +1,178 @@
+[
+
+  {
+    "title": "Api-Sistema-Medico desenvolvido em Java",
+    "description": "Bate papo",
+    "image": "https://i.ibb.co/P9qJygK/Video-2023-10-04-064647.gif",
+    "link": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java",
+    "git": "https://github.com/JacquelineCasali/Api-Sistema-Medico-Java",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+  },
+  {
+    "title": "Api-Forum com login desenvolvido em Java",
+    "description": "Bate papo",
+    "image": "https://i.ibb.co/kDqHq4D/Video-forum.gif[/img][/url]",
+
+    "link": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
+    "git": "https://github.com/JacquelineCasali/One-Alura-Forum.git",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+  },
+
+  {
+    "title": "Api-Parcelamento desenvolvido em Java",
+    "description": "",
+    "image": "https://i.ibb.co/RyFcttT/2024-03-25-122801.png",
+
+    "link": "https://github.com/JacquelineCasali/Api-Pagamento-Java",
+    "git": "https://github.com/JacquelineCasali/Api-Pagamento-Java",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+ 
+  },
+  {
+    "title": "Api-de Gestão de vagas Desnsenvolvido em Java",
+    "description": "",
+    "image":"https://github.com/user-attachments/assets/592bd937-1228-4921-912e-0a7dd075a887",
+
+    "link": "https://gestao-vagas-hyo7.onrender.com/swagger-ui/index.html",
+    "git": "https://github.com/JacquelineCasali/gestao-vagas",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+  },
+
+  {
+    "title": "Api-Cardápio desenvolvido em Java",
+    "description": "",
+    "image": "https://i.ibb.co/JCDsCMj/Video-2024-03-19-143950.gif",
+
+    "link": "https://github.com/JacquelineCasali/back-end-cardapio-java",
+    "git": "https://github.com/JacquelineCasali/back-end-cardapio-java",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+  },
+  {
+    "title": "Carrinho de Compras React.js",
+    "description": "",
+    "image": "https://i.ibb.co/3fc5ws5/2024-07-09-104601.png",
+    "link": "https://burgers-restaurant-react.vercel.app/",
+    "git": "https://github.com/JacquelineCasali/BURGERS-RESTAURANT---REACT",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  },
+ {
+      "title": "Cripto Moedas",
+       "description": "Descrição do projeto 3",
+      "image": "https://i.ibb.co/PWKF6Cr/2023-08-01-144058.png[/img]",
+
+      "link": "https://site-criptonoedas.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/Site-Criptonoedas",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+
+    },
+    {
+      "title": "Conversor de Moedas ",
+      "description": "Descrição do projeto 5",
+      "image": "https://i.ibb.co/wNGL0tY/2023-09-06-133944.png[/img][/url]",
+      "link": "https://conversor-de-moedas-phi.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/Conversor-de-Moedas",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+    {
+      "title": "CRUD de Pet desenvolvido",
+      "description": "Buscar cep auto preenche o endereço",
+      "image": "https://i.ibb.co/Wv50XC1/Video-2023-06-15-210440.gif[/img][/url]",
+      "link": "https://front-back-petshop.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/Front--Back--Petshop",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+
+    {
+      "title": "CRUD de Lista de Estudante",
+      "description": "Criar , Editar, ler e Deletar Cadastro",
+      "image": "https://i.ibb.co/YdGjJ6F/Video-crud-de-estudante.gif[/img][/url]",
+      "link": "https://lista-de-estudante-react-php.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/lista-de-estudante-front-back",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+    {
+      "title": "Upload de Imagem ",
+      "description": "Upload de Imagem ",
+      "image": "https://i.ibb.co/tYDMJb4/upload.gif",
+      "link": "https://upload-de-imagem-com-react-node-mysql.vercel.app/",
+      "git":"https://github.com/JacquelineCasali/upload-de-imagem-com-react-node-mysql"
+    },
+    {
+      "title": "Sitema de Hotel desenvolvido em Java",
+      "description": "Bate papo",
+      "image": "https://i.ibb.co/mNN2hn5/Video-hotel.gif[/img][/url]",
+      "link": "https://github.com/JacquelineCasali/One-Alura-Hotel",
+      "git": "https://github.com/JacquelineCasali/One-Alura-Hotel",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+
+
+
+
+    {
+      "title": "Sistema de login com autenticação JWT Desenvolvido em Node.js,React.js Mysql",
+      "description": "",
+      "image": "https://i.ibb.co/8c7njSZ/Video-login.gif",
+      "link": "https://api-login-node-express-mysql.vercel.app/login",
+      "git": "https://github.com/JacquelineCasali/Api-Login-Node-express-Mysql.git",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+ 
+    {
+      "title": "Api-Planejador de Viagem desenvolvido em Java",
+      "description": "",
+      "image":     "https://github.com/user-attachments/assets/a3a4e940-8520-471d-8036-2d8a6ba505da",
+
+      "link": "https://github.com/JacquelineCasali/nlw-planner-Java",
+      "git": "https://github.com/JacquelineCasali/nlw-planner-Java",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+    
+    {
+      "title": "Api-Planejador de Viagem desenvolvido em React",
+      "description": "",
+      "image":     "https://i.ibb.co/nj17wJK/2024-07-26-112739.png",
+
+      "link": "https://github.com/JacquelineCasali/nlw-planner-react",
+      "git": "https://github.com/JacquelineCasali/nlw-planner-react",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+    },
+
+    {
+      "title": "Api-Lista de Tarefas desenvolvido em Java Rodar no postman Post: https://todolist-dy0q.onrender.com/users",
+      "description": "",
+      "image":"https://github.com/user-attachments/assets/8bebc6f8-d9da-4ee7-a848-6975cc06c09d",
+
+      "link": "https://todolist-dy0q.onrender.com/users",
+      "git": "https://github.com/JacquelineCasali/todolist",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+
+
+    },
+
+
+    {
+      
+ 
+      "title": "Busca Cep",
+      "description": "Buscar cep auto preenche o endereço ",
+      "image": "https://i.ibb.co/094dsn9/Video-cep.gif[/img][/url] ",
+      "link": "https://busca-endereco-pelo-cep.vercel.app/",
+      "git": "https://github.com/JacquelineCasali/busca-endereco-pelo-cep",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+   
+    }
+     ]
+
+    

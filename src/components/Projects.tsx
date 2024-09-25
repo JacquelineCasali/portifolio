@@ -25,6 +25,9 @@ export default function Projects() {
           <p className="relative  text-xl text-gray-400 py-6 sm:text-2xl md:text-3xl">
             Alguns dos projetos Desenvolvidos.
           </p>
+          {/* <p className="relative  text-xl text-gray-400 py-6 sm:text-2xl md:text-3xl">
+         Projeto desenvolvidos com React.js com Node.js.
+          </p> */}
           <div className="absolute left-24 top-0 z-0  h-10 w-44 rounded-lg bg-green-600/10 lg:ml-14 md:ml-20    " />
         </div>
            <div className="space-y-12 lg:grid lg:grid-cols-2 lg:gap-x-6 lg:space-y-0 px-6 ">
@@ -39,18 +42,25 @@ export default function Projects() {
               </div>
 
               <div className=" flex justify-end items-center  mt-5 mb-8 text-xl font-semibold text-green-500 no-underline hover:underline ">
-              <h3 >
-                  <a   href={project.link} target="_blank">
+              <img className="mr-2 w-12" src={project.iconF}/>
+              <img className="mr-2 w-12" src={project.icon}/>
+              <img className="mr-2 w-12" src={project.iconE}/>
+              <img className=" mr-4 w-12" src={project.iconB}/>
+              {/* <h3 > */}
+                  <a  className="w-5/6" href={project.link} target="_blank">
                     {project.title}
                   </a>
-                </h3>
+                {/* </h3> */}
 
-                <div className="flex items-center gap-4 mr-2 w-1/3 justify-end">
+                <div className="flex items-center gap-4 mr-2 justify-end">
                   <Link
                     className="rounded-full hover:-translate-y-2 hover:scale-125 hover:text-blue-600 duration-75 bottom-2"
                     to={project.link}
                     target="_blank"
                   >
+               
+
+
                     <VscGlobe
                       className="transition ease-in-out delay-150     "
                       size={32}
@@ -67,6 +77,9 @@ export default function Projects() {
                       size={32}
                     />
                   </Link>
+              
+
+
                 </div>
               </div>
             </div>

@@ -11,8 +11,9 @@ import Projects from '../components/Projects';
 import Hearder from '../components/Hearder/Hearder';
 import Footer from '../components/Footer/Footer';
 
-function Home() {
 
+
+function Home() {
 
   return (
     <>
@@ -23,8 +24,13 @@ function Home() {
 
      < Hearder/>
  
+
       <Banner/>
-      <Projects/>
+ 
+
+ 
+
+   <Projects/>
 
 <Linguguens/>
  <Contact/>

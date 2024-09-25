@@ -16,13 +16,10 @@
       "level": 85
     },
  
-    {         "name": "Angular.js",
-        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-      
-    },
+  
     {
       "name": "Node.js",
-      "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      "icon": "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
    
            },
          
@@ -57,3 +54,5 @@
 
 
               ]
+
+  
